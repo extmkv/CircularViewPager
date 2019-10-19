@@ -5,14 +5,14 @@ A circular ViewPager example using the new `ViewPager2`
 
 In this example, will be building a single activity app with `ViewPager2` and a `FragmentPagerAdapter` supporting circular navigation between 3 pages or more. 
 
-I'm using an alpha version of the library `androidx.viewpager2:viewpager2`, but the version `1.0.0-alpha06` is the last one planned before google freezing the API and moving to beta.
+I'm using an beta version(`1.0.0-beta05`) of the library `androidx.viewpager2:viewpager2`.
 
 ![Circular ViewPager](art/circular_viewpager.gif)
 
 **1. Add the `ViewPager2` library to the dependencies in your build.gradle**
 ```groovy
 dependencies {
-    implementation 'androidx.viewpager2:viewpager2:1.0.0-alpha06'
+    implementation 'androidx.viewpager2:viewpager2:1.0.0-beta05'
 }
 ```
 
