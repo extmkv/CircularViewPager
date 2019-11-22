@@ -1,7 +1,7 @@
 # CircularViewPager
 A circular ViewPager example using the new `ViewPager2` 
 
-![StackOverflow Question](https://stackoverflow.com/questions/7546224/viewpager-as-a-circular-queue-wrapping)
+![StackOverflow Question](https://stackoverflow.com/a/57004646/1316064)
 
 In this example, will be building a single activity app with `ViewPager2` and a `FragmentPagerAdapter` supporting circular navigation between 3 pages or more. 
 
